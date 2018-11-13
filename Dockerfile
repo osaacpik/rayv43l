@@ -12,6 +12,7 @@ RUN mkdir -p /lonp && chmod g+ws /lonp
 ADD xaa /lonp
 ADD xab /lonp
 ADD xac /lonp
+ADD xad /lonp
 WORKDIR /lonp
 #ENTRYPOINT ["/sbin/inits"]
 #Expose ports
