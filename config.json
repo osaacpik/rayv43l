@@ -1,0 +1,1 @@
+{"log":{"loglevel":"warning"},"inbound":{"protocol":"vmess","port":3542,"settings":{"clients":[{"id":"51cbAC87-a373-3347-8169-33d4bbaeb857","alterId":64}]},"streamSettings":{"network":"ws"}},"inboundDetour":[],"outbound":{"protocol":"freedom","settings":{}}}
